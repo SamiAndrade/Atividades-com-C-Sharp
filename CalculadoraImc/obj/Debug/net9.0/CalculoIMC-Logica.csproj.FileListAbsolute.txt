@@ -1,0 +1,14 @@
+C:\Users\samic\Downloads\ExerciciosC#\CalculoImc-Logica\bin\Debug\net9.0\CalculoIMC-Logica.exe
+C:\Users\samic\Downloads\ExerciciosC#\CalculoImc-Logica\bin\Debug\net9.0\CalculoIMC-Logica.deps.json
+C:\Users\samic\Downloads\ExerciciosC#\CalculoImc-Logica\bin\Debug\net9.0\CalculoIMC-Logica.runtimeconfig.json
+C:\Users\samic\Downloads\ExerciciosC#\CalculoImc-Logica\bin\Debug\net9.0\CalculoIMC-Logica.dll
+C:\Users\samic\Downloads\ExerciciosC#\CalculoImc-Logica\bin\Debug\net9.0\CalculoIMC-Logica.pdb
+C:\Users\samic\Downloads\ExerciciosC#\CalculoImc-Logica\obj\Debug\net9.0\CalculoIMC-Logica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samic\Downloads\ExerciciosC#\CalculoImc-Logica\obj\Debug\net9.0\CalculoIMC-Logica.AssemblyInfoInputs.cache
+C:\Users\samic\Downloads\ExerciciosC#\CalculoImc-Logica\obj\Debug\net9.0\CalculoIMC-Logica.AssemblyInfo.cs
+C:\Users\samic\Downloads\ExerciciosC#\CalculoImc-Logica\obj\Debug\net9.0\CalculoIMC-Logica.csproj.CoreCompileInputs.cache
+C:\Users\samic\Downloads\ExerciciosC#\CalculoImc-Logica\obj\Debug\net9.0\CalculoIMC-Logica.dll
+C:\Users\samic\Downloads\ExerciciosC#\CalculoImc-Logica\obj\Debug\net9.0\refint\CalculoIMC-Logica.dll
+C:\Users\samic\Downloads\ExerciciosC#\CalculoImc-Logica\obj\Debug\net9.0\CalculoIMC-Logica.pdb
+C:\Users\samic\Downloads\ExerciciosC#\CalculoImc-Logica\obj\Debug\net9.0\CalculoIMC-Logica.genruntimeconfig.cache
+C:\Users\samic\Downloads\ExerciciosC#\CalculoImc-Logica\obj\Debug\net9.0\ref\CalculoIMC-Logica.dll
