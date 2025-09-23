@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CalculoIMC-Logica")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0940cb4c512f2a85a7b711dd3914c7b23ed57f04")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b6e165110938ba597939dbcd1438e310db167055")]
 [assembly: System.Reflection.AssemblyProductAttribute("CalculoIMC-Logica")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CalculoIMC-Logica")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
